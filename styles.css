@@ -1,0 +1,35 @@
+form {
+  padding: 15px;
+  color: #004;
+}
+
+label {
+  display: block;
+  padding-bottom: 3px;
+  font-size: 17px;
+  width: 100%;
+}
+
+input {
+  padding: 10px 7px;
+  border: 1px solid #008;
+  box-sizing: border-box;
+  border-radius: 7px;
+  display: block;
+  margin: auto;
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+button {
+  padding: 10px 0px;
+  border: none;
+  background: #006;
+  color: #fff;
+  display: block;
+  margin: auto;
+  margin-top: 7px;
+  width: 100%;
+  border-radius: 7px;
+}
