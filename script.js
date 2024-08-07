@@ -1,0 +1,2 @@
+
+const idade = 5
